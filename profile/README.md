@@ -24,5 +24,5 @@ Do you like animals? Get financial rewards by taking care of the Pets of pet own
 Luppy provides (feature in progress) mutual guarantees insuring the liability of all parties by making a financial Deposit, which is returned when a happy pet returns home to its owner.
 
 
-| [<img src="/.github/E3B411F1-EF7D-4A6D-B161-38F35A84F2CF.png" height=50px>](https://apps.apple.com/app/id1586146371)  | [<img src="/.github/7622E59A-D29A-4EA6-A123-F9B11DBEE12B.png" height=65px>](https://play.google.com/store/apps/details?id=com.luppy.club) |
+| [<img src="/.github/profile/ap.png" height=50px>](https://apps.apple.com/app/id1586146371)  | [<img src="/.github/profile/gp.png" height=65px>](https://play.google.com/store/apps/details?id=com.luppy.club) |
 | ------------- | ------------- |
